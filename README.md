@@ -20,6 +20,10 @@ https://github.com/qalle-git/esx-qalle-sellvehicles
    ou bien
 ``ensure esx-foltone-qalle-sellvehicles``
 
+[DISCORD]
+
+https://discord.com/invite/X9ReemrhKh
+
 [VIDEO]
 
 https://youtu.be/lQ-HHJvbUBM
