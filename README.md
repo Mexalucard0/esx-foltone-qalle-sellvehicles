@@ -11,7 +11,7 @@ https://github.com/qalle-git/esx-qalle-sellvehicles
 
 [INSTALLATION]
 
-1) Télécharger: https://github.com/qalle-fivem/esx-foltone-qalle-sellvehicles
+1) Télécharger: https://github.com/foltone/esx-foltone-qalle-sellvehicles
 
 2) Importer le SQL
 
