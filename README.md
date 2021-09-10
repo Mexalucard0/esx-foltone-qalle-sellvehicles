@@ -11,7 +11,7 @@ https://github.com/qalle-git/esx-qalle-sellvehicles
 
 [MAP] 
 
-https://app.mediafire.com/fng2mfiv8xmp7
+https://mega.nz/file/WMMT1CBK#Adx0BoXTb80sJSM6ZFlUTuQOS8-WhX-KX0HhE9AZKMk
 
 [INSTALLATION]
 
